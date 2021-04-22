@@ -1,7 +1,7 @@
 function config() {
     return {
-            roi: {"x0": 0, "x1": 7602, "y0": 0, "y1": 5471 },
-            imageSize: [262144, 188660],
+            roi: {"x0": 0, "x1": 9496, "y0": 0, "y1": 7674},
+            imageSize: [262144, 211846],
             tiles: 'https://raw.githubusercontent.com/acycliq/septal/master/dashboard/data/septal_tiles/{z}/{y}/{x}.jpg',
             cellData: 'https://api.github.com/repos/acycliq/septal/contents/dashboard/data/cellData',
             geneData: 'https://api.github.com/repos/acycliq/septal/contents/dashboard/data/geneData',
