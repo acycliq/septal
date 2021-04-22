@@ -44,7 +44,7 @@ function classColorsCodes()
         {className: 'label_37', IdentifiedType: 'label_37', color: '#FFFFFF'},
         {className: 'label_38', IdentifiedType: 'label_38', color: '#FFFFFF'},
         {className: 'label_39', IdentifiedType: 'label_39', color: '#FFFFFF'},
-        {className: 'label_40', IdentifiedType: 'label_40', color: '#00FF00'},
+        {className: 'label_40', IdentifiedType: 'label_40', color: '#FFFFFF'},
         {className: 'label_41', IdentifiedType: 'label_41', color: '#FFFFFF'},
         {className: 'label_42', IdentifiedType: 'label_42', color: '#FFFFFF'},
         {className: 'label_43', IdentifiedType: 'label_43', color: '#FFFFFF'},
